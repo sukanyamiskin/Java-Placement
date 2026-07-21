@@ -1,12 +1,12 @@
 package Java;
 import java.util.Scanner;
 
-public class palindrom{
+public class palindrome{
     public static void main(String args[]){
 
         Scanner sc= new Scanner(System.in);
 
-        System.out.println("Enter a String or an Integer: ");
+        System.out.println("Enter a String: ");
         String str= sc.nextLine();
 
         String reverse= "";

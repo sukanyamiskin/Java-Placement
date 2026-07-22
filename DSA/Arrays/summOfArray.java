@@ -1,4 +1,4 @@
-package Arrays;
+package DSA.Arrays;
 
 public class summOfArray {
     public static void main(String args[]){

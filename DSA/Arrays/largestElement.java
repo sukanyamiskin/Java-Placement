@@ -1,4 +1,4 @@
-package Arrays;
+package DSA.Arrays;
 
 public class largestElement {
     public static void main(String args[]){
